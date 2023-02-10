@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B4F47A09-BB80-400A-87F5-E8B355C15218}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookAuthorHomeworkWeek27 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookAuthorHomeworkWeek27/Controllers/BookController.cs">
+    <Files>
+      <File FileName="BookAuthorHomeworkWeek27/Program.cs" Line="4" Column="1" />
+      <File FileName="BookAuthorHomeworkWeek27/Models/Book.cs" Line="16" Column="41" />
+      <File FileName="BookAuthorHomeworkWeek27/Services/IBookService.cs" Line="13" Column="14" />
+      <File FileName="BookAuthorHomeworkWeek27/Services/BookService.cs" Line="70" Column="25" />
+      <File FileName="BookAuthorHomeworkWeek27/Controllers/BookController.cs" Line="71" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookAuthorHomeworkWeek27" expanded="True">
+            <Node name="BookAuthorHomeworkWeek27" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

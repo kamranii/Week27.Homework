@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f41w22c8jttuN0OXPIbVSfEaiylkl2NKKIbmoPBXPJkfNF1NA0deMLXBONgL1eCwHCZHr5Zmc9ptZYtWsufb2Q==",
+  "success": true,
+  "projectFilePath": "/Users/kamranimranli/Desktop/CodeAcademy/NET Core/BookAuthorHomeworkWeek27/BookAuthorHomeworkWeek27/BookAuthorHomeworkWeek27.csproj",
+  "expectedPackageFiles": [
+    "/Users/kamranimranli/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
